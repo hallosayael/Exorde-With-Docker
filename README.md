@@ -1,7 +1,7 @@
 # <p align="center"> Tutorial Exorde Incentivized Tesnet </p>
 
 <p style="font-size:14px" align="left">
-<a href="https://t.me/Pepoy_Crypto" target="_newtab">Join Telegram kami <img width="20" height="auto" src="https://github.com/mrfastes/datablog/blob/main/photo_2022-09-17_07-05-40.jpg" </a>
+<a href="https://t.me/Pepoy_Crypto" " target="_blank" rel="nofollow">Join Telegram kami <img width="20" height="auto" src="https://github.com/mrfastes/datablog/blob/main/photo_2022-09-17_07-05-40.jpg" </a>
 </p>
 <p style="font-size:14px" align="left">
 <a href="https://twitter.com/mrfastes" target="_blank"> Follow My twitter
