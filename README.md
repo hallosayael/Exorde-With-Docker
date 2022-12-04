@@ -108,4 +108,4 @@ exordelabs/exorde-cli \
 |4|Log validasi (detail) + log scrapping 
 
 
-## Note : Jika error dan Rep/Poin tidak bertambah Silahkan hapus dan install ulang docker anda
+## Note : Jika error dan Rep/Poin tidak bertambah selama 1 jam silahkan hapus dan install ulang docker anda
