@@ -107,5 +107,14 @@ exordelabs/exorde-cli \
 |3|Log validasi dan scrapping|
 |4|Log validasi (detail) + log scrapping 
 
+                                                                                                 
+Cek docker yg berjalan
+```
+docker ps -a
+```
+```                                                                                                 
+docker logs -f <container id>                                                                                                 
+```                                                                                                 
+
 
 ## Note : Jika error dan Rep/Poin tidak bertambah selama 1 jam silahkan hapus dan install ulang docker anda
